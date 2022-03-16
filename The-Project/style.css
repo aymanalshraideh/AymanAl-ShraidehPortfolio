@@ -5,8 +5,11 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
-#myVideo {
-    /*width: 100vw;*/
+#ms{ margin-top: 20px;}
+
+
+
+#myVideo {  /*width: 100vw;*/
     height: 200vh;
     width: 100%;
     object-fit: cover;
@@ -109,7 +112,7 @@ img:hover {
 
 
 .card {
-    /*background-color: white;*/
+    
     font-size: x-large;
 
 
